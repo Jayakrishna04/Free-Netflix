@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Free-Netflix/static/css/main.d37b56eb.css",
+    "main.js": "/Free-Netflix/static/js/main.cf67a233.js",
+    "index.html": "/Free-Netflix/index.html",
+    "main.d37b56eb.css.map": "/Free-Netflix/static/css/main.d37b56eb.css.map",
+    "main.cf67a233.js.map": "/Free-Netflix/static/js/main.cf67a233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37b56eb.css",
+    "static/js/main.cf67a233.js"
+  ]
+}
